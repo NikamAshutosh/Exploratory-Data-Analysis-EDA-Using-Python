@@ -18,17 +18,13 @@ Dataset: Describe the dataset used for analysis. Mention its source, size, and a
 **Libraries:** Key libraries such as Pandas (for data manipulation), Matplotlib and Seaborn (for data visualization), and NumPy (for numerical operations) are utilized.
 
 **3. Steps Involved**
+
 **Loading Data:** Load the dataset into the notebook using Pandas, examine its structure (columns, data types, missing values).
 **Data Cleaning:** Perform necessary cleaning operations such as handling missing values, dealing with duplicates, and ensuring data consistency.
-
-**Exploratory Analysis:**
-
+**Exploratory Analysis:** EDA using Python in a Jupyter Notebook, ensuring clarity and completeness in documenting the analysis process.
 **Summary Statistics:** Compute descriptive statistics (mean, median, mode, range, etc.) to understand the central tendencies and spread of data.
 **Data Visualization:** Use visualizations like histograms, box plots, scatter plots to identify patterns, trends, outliers, and relationships between variables.
-
 **Correlation Analysis:** Explore correlations between variables to understand which factors influence each other and how.
-
-**Hypothesis Testing:** If relevant, perform statistical tests to validate assumptions or hypotheses about the data.
 
 **4. Conclusion :- Insight**
    -- **Married women age group 26-35 yrs from UP,  Maharastra and Karnataka working in IT, Healthcare and Aviation are more likely to buy products from Food, Clothing and Electronics category**
