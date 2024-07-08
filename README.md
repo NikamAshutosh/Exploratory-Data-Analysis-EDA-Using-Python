@@ -7,7 +7,7 @@ Certainly! Exploratory Data Analysis (EDA) is a crucial step in any data-centric
 **Project Objectives :**
 - Imporive customers experience by analyzing sales data.
 - Increase the Revenue.
-- 
+
 **1. Introduction**
 **Objective:** The goal of this project is to perform Exploratory Data Analysis (EDA) on a dataset using Python tools and libraries within a Jupyter Notebook environment.
 Dataset: Describe the dataset used for analysis. Mention its source, size, and any notable characteristics.
